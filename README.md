@@ -27,7 +27,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 
 ## Autor
 
-[Luan Santos]([https://github.com/LuaSant93])
+[Luan Santos][https://github.com/LuaSant93]
 
 
 
