@@ -1,6 +1,6 @@
 # Página de Listagem de Vídeos do YouTube com CSS
 
-- Página do Projeto Concluido : 
+- Página do Projeto Concluido : https://luasant93.github.io/Desafio-CSS-03/
 
 Este é um projeto prático que visa construir a interface de uma página de listagem de vídeos inspirada na interface do YouTube. Utilizando principalmente os conceitos de Grid Layout do CSS, esta página foi desenvolvida como um exercício para aprimorar habilidades em layout responsivo e design web.
 
