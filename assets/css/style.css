@@ -114,7 +114,7 @@ main {
 
 .main-content {
     display: grid;
-    grid-template: repeat(3, 262px) / repeat(4, 282px);
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     padding: 24px 28px;
     gap: 14px;
     place-content: center;
